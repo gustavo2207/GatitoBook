@@ -1,0 +1,3 @@
+[submodule "GatitoBook-frontend"]
+	path = GatitoBook-frontend
+	url = https://github.com/gustavo2207/GatitoBook-frontend
